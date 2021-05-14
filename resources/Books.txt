@@ -1,0 +1,23 @@
+1/Tatiana Polyakova/Mansion with access to the astral plane/detective/2021/paper/no baby/home
+2/John Marrs/The One/detective/2020/paper/no baby/home
+3/Agatha Christie/Murder on the Orient Express/detective/2017/paper/no baby/home
+4/Mikhail Bulgakov/Master and Margarita/novel/2012/paper/general access/home
+5/Antoine de Saint-Exupery/The Little Prince/novel/2018/paper/general access/home
+6/Fyodor Dostoevsky/Crime and Punishment/novel/2019/paper/general access/home
+7/Armand Louis Caulaincourt/Napoleon's campaign to Russia/documentary/2021/paper/general access/home
+8/Andre Maurois/History of England/documentary/2021/paper/general access/home
+9/J.K. Rowling/Harry Potter and the Philosopher's Stone/fantasy/2015/paper/general access/home
+10/J.K. Rowling/Harry Potter And The Chamber of secrets/fantasy/2016/paper/general access/home
+11/Stephenie Meyer/Twilight/fantasy/2017/paper/general access/home
+12/Bert Bates, Kathy Sierra/Head First Java/education/2020/paper/general access/home
+13/Zusak M./The Book Thief/novel/2016/paper/general access/home
+14/Eric Freeman, Elisabeth Robson/Design Patterns/education/2020/electronic/general access/home
+15/Robert C. Martin/Clean Code/education/2019/electronic/general access/home
+16/Hal Elrod/The Miracle Morning/business literature/2016/paper/general access/home
+17/Stephen Covey/Seven Habits of Highly Effective People/business literature/2018/paper/general access/home
+18/Chris Anderson/TED TALKS/business literature/2016/paper/general access/home
+19/Andrey Kurpatov/Train your brain. Ability Trainer/leisure/2019/paper/general access/home
+20/S. Stryker/Imagine and draw/leisure/2011/paper/general access/home
+21/Korney Chukovsky/Fly Tsokotukha/baby/2017/paper/general access/home
+22/Korney Chukovsky/Korney Chukovsky. Poems and Tales/2014/paper/general access/home
+23/Zusak M./The Book Thief/novel/2016/paper/general access/home
